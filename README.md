@@ -9,20 +9,20 @@ The data has 185951 Rows and 9 colums
 
 Column   Description
 
-Order ID   Unique transaction ID
+Order ID -  Unique transaction ID
 
-Product   Product purchased
+Product  - Product purchased
 
-Quantity Ordered   Number of items bought
+Quantity Ordered  - Number of items bought
 
-Price   Price per item
+Price  - Price per item
 
-Order Date   Date of purchase
+Order Date -  Date of purchase
 
-Time   Time of purchase
+Time -  Time of purchase
 
-Purchase Address   Customer address
+Purchase Address  - Customer address
 
-City   City where purchase occurred
+City  - City where purchase occurred
 
-Product Type   Category of product
+Product Type -  Category of product
