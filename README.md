@@ -8,12 +8,21 @@ This dataset is from: link text
 The data has 185951 Rows and 9 colums
 
 Column   Description
+
 Order ID   Unique transaction ID
+
 Product   Product purchased
+
 Quantity Ordered   Number of items bought
+
 Price   Price per item
+
 Order Date   Date of purchase
+
 Time   Time of purchase
+
 Purchase Address   Customer address
+
 City   City where purchase occurred
+
 Product Type   Category of product
